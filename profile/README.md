@@ -3,7 +3,6 @@
 Welcome to Loyal 👋
 ---------------------
 
-
 loyal
 ---------------------
 core blockchain code

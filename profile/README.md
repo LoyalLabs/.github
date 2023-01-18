@@ -2,7 +2,6 @@
 
 Welcome to Loyal 👋
 ---------------------
-Visit our repos
 
 loyal
 ---------------------

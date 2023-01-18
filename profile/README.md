@@ -1,4 +1,4 @@
-![Loyal_GitHub_2x](https://user-images.githubusercontent.com/59664421/213294775-4eadfee9-16ac-4583-b02f-3cfac66c28a9.png)
+![Loyal_GitHub_Logo](https://user-images.githubusercontent.com/59664421/213294955-b09eb803-fc0c-47e4-a0b2-d7f6534900d5.png)
 
 Welcome to Loyal 👋
 ---------------------

@@ -2,11 +2,16 @@
 
 Welcome to Loyal 👋
 ---------------------------
+
 Visit our repos
+
 ---------------------------
+
 loyal
 core blockchain code
+
 ---------------------------
 net
 instructions to run a node on the loyal testnet and mainnet
+
 ---------------------------

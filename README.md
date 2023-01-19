@@ -3,6 +3,9 @@
 Welcome to Loyal 👋
 ---------------------------
 
+Repo Overview 👇
+---------------------------
+
 loyal
 ---------------------------
 core blockchain code

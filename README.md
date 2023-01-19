@@ -13,6 +13,3 @@ core blockchain code
 net
 ---------------------------
 instructions to run a node on the loyal testnet and mainnet
-
-
-![loyal_logo](https://user-images.githubusercontent.com/59664421/213351177-1200de86-7a0c-4b45-a878-af3d09c63bcc.png)

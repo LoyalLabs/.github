@@ -3,7 +3,7 @@
 Welcome to Loyal 👋
 ---------------------------
 
-Repo Overview 👇
+Repo overview 👇
 ---------------------------
 
 loyal
